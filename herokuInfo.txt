@@ -1,8 +1,15 @@
 
+/////// old
+/* SRV root@dell-comp:anode-chat-app# heroku create */
+/* Creating app... done, ⬢ afternoon-wildwood-87418 */
+/* https://afternoon-wildwood-87418.herokuapp.com/ | https://git.heroku.com/afternoon-wildwood-87418.git */
+/* SRV root@dell-comp:anode-chat-app#  */
+//////// old
 
+RV root@dell-comp:anode-chat-app# 
 SRV root@dell-comp:anode-chat-app# heroku create
-Creating app... done, ⬢ afternoon-wildwood-87418
-https://afternoon-wildwood-87418.herokuapp.com/ | https://git.heroku.com/afternoon-wildwood-87418.git
+Creating app... done, ⬢ guarded-sands-50891
+https://guarded-sands-50891.herokuapp.com/ | https://git.heroku.com/guarded-sands-50891.git
 SRV root@dell-comp:anode-chat-app# 
 
 
